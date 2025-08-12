@@ -1,0 +1,12 @@
+{
+  "name": "@jcaponga/hide-name",
+  "version": "1.0.0",
+  "description": "Masked name function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesus B. Caponga",
+  "license": "ISC",
+  "type": "module"
+}
